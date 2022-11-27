@@ -1,0 +1,57 @@
+h1 {
+  color: blue;
+}
+body {
+  font-family: monotype;
+}
+h1 {
+  font-size:28px;
+  color: #198FBF;
+  text-align: left;
+}
+
+
+.card
+ {
+  background-color: #caedff;
+  border-radius: 50px;
+  color: #40007f;
+  font-family: 'monotype', serif;
+  width:400px;
+  padding-left:10px;
+}
+
+.emoji {
+  padding:10px;
+  height:auto;
+  width:auto;
+  text-align: center;
+}
+
+.weather-report
+{
+  list-style:none;
+ font-size: 14px;; 
+font:#ff0000;
+padding-bottom: 10px;
+text-align: center;
+
+}
+
+.span{
+  font:#ff0000
+  font-size:10px;
+  text-align:center;
+}
+
+h2{
+  font-size: 16px;
+  color:blue;
+  text-align:center ;
+  margin-left:10px;
+ 
+}
+
+.form{
+  text-align: center;
+}
